@@ -1,0 +1,5 @@
+{
+  "name": "Ebo Search",
+  "description": "An AI-powered search browser that uses a conversational interface to find, summarize, and present information from the web, allowing you to browse sites directly within the app.",
+  "requestFramePermissions": []
+}
